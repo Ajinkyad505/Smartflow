@@ -1,7 +1,4 @@
-# Smartflow
-SmartFlow Decision Science: Optimizing Multi-Modal Transportation for Cost-Efficient Supply Chains 
-
-# MultiModal Transport Optimization Documentation
+#  Smartflow: Optimizing Multi-Modal Transportation for Cost-Efficient Supply Chains 
 
 ## 1. Introduction
 
